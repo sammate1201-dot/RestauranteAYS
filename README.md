@@ -1,11 +1,13 @@
-# Sistema de Gestión de Restaurante AYS
+# Sistema SIG-AYS
 
-Proyecto básico para gestionar pedidos, menú y usuarios.
+Sistema de gestión para Restaurantes AYS.
 
 ## Funcionalidades
-- Gestión de menú
-- Registro de pedidos
-- Control de usuarios
+- Usuarios
+- Menú
+- Pedidos
+- Reservas
+- Reportes
 
-## Control de versiones
-Se utiliza Git para gestionar los cambios del sistema.
+## Ejecución
+python main.py
